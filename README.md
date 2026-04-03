@@ -1,4 +1,4 @@
-# iPod 1st gen Clone (iOS)
+# iPod 1st gen
 
 A faithful recreation of the iconic iPod Classic first-generation interface built with modern iOS technologies.
 WIP
