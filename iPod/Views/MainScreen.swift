@@ -15,7 +15,7 @@ struct MainScreen: View {
       }
       
       ScrollWheelView(
-        diameter: 320,
+        diameter: 350,
         onButtonPress: { ScrollWheelEventsPublisher.shared.send(.buttonPressed($0)) },
         onScroll: { ScrollWheelEventsPublisher.shared.send(.scrolled($0)) }
       )
