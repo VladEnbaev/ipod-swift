@@ -1,4 +1,4 @@
-# iPod 1st gen
+# iPod 1st gen for iOS
 
 Bring the nostalgic magic of the iconic 2001 iPod Classic right to your modern iPhone. A faithful, pixel-perfect recreation of the beloved interface, complete with a beautifully functional click wheel and authentic haptic feedback.
 
@@ -18,22 +18,6 @@ Experience the joy of dedicated music listening again. This isn't just a theme â
 *   **Modern Magic**: Works flawlessly in the background, syncs with the iOS Control Center, and respects modern device form factors while maintaining the classic aspect ratio.
 
 https://github.com/user-attachments/assets/5f532e2f-e55b-4cd2-8d7d-84ef4b3b35db
-
-## Roadmap
-
-Here are the key milestones that have been completed and what's coming next:
-
-### Completed
-*   [x] Basic UI structure and hierarchical navigation
-*   [x] Working Click Wheel implementation with haptic feedback
-*   [x] Apple Music library integration
-*   [x] Core media playback controls (Play, Pause, Volume, Seek, Skip)
-*   [x] Background audio and Control Center support
-
-### Planned
-*   [ ] Spotify Integration
-*   [ ] Settings
-*   [ ] Classic mini-games
 
 ## Installation (via AltStore)
 
@@ -66,6 +50,22 @@ Curious about how it works under the hood? The app is built using a state-of-the
 2. Open the project in **Xcode 15+**.
 3. Select your Personal Development Team in the "Signing & Capabilities" tab.
 4. Build and run on your simulator or physical device (iOS 15.0+ required).
+
+## Roadmap
+
+Here are the key milestones that have been completed and what's coming next:
+
+### Completed
+*   [x] Basic UI structure and hierarchical navigation
+*   [x] Working Click Wheel implementation with haptic feedback
+*   [x] Apple Music library integration
+*   [x] Core media playback controls (Play, Pause, Volume, Seek, Skip)
+*   [x] Background audio and Control Center support
+
+### Planned
+*   [ ] Spotify Integration
+*   [ ] Settings
+*   [ ] Classic mini-games
 
 ## Contributing
 
