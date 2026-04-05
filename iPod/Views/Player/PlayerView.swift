@@ -82,7 +82,6 @@ struct PlayerView: View {
           .lineLimit(1)
           .font(.chicagoRegular(size: 24))
           .foregroundStyle(Color.Pod.displayBlack)
-          .frame(maxWidth: .infinity, alignment: .leading)
         
         Text(store.currentTrack?.metadata?.artist ?? "")
           .lineLimit(1)
