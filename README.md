@@ -1,6 +1,6 @@
 # iPod 1st gen for iOS
 
-Bring the nostalgic magic of the iconic 2001 iPod Classic right to your modern iPhone. A faithful, pixel-perfect recreation of the beloved interface, complete with a beautifully functional click wheel and authentic haptic feedback.
+Bring the nostalgic magic of the iconic 2001 iPod right to your modern iPhone.
 
 ![iOS](https://img.shields.io/badge/iOS-15+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -77,4 +77,4 @@ This project is available under the MIT license.
 
 *   **Disclaimer**: This project is for educational and nostalgic purposes only. All iconic designs, trademarks, and UI concepts belong to Apple Inc.
 *   Built with [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) by Point-Free.
-*   Special thanks to the Open Source Swift community for excellent tools and resources.
+*   Big inspiration: https://github.com/j-lechner/RetroPod
