@@ -77,4 +77,4 @@ This project is available under the MIT license.
 
 *   **Disclaimer**: This project is for educational and nostalgic purposes only. All iconic designs, trademarks, and UI concepts belong to Apple Inc.
 *   Built with [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) by Point-Free.
-*   Big inspiration: https://github.com/j-lechner/RetroPod
+*   Big inspiration https://github.com/j-lechner/RetroPod by j-lechner.
