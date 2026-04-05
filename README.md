@@ -13,7 +13,7 @@ Bring the nostalgic magic of the iconic 2001 iPod Classic right to your modern i
 Experience the joy of dedicated music listening again. This isn't just a theme — it's a fully functional media player that integrates seamlessly with your iPhone's Apple Music library.
 
 *   **Authentic Click Wheel**: Navigate your library using intuitive circular gestures, just like the original device. Accompanying haptic feedback makes it feel real.
-*   **The Classic Interface**: A pixel-perfect recreation of the original monochrome menus, typography, and hierarchical navigation (`Music` → `Artists` → `Albums` → `Songs`).
+*   **The Classic Interface**: Moderm recreation of the original monochrome menus, typography, and hierarchical navigation.
 *   **Full Media Integration**: Seamlessly plays tracks directly from your iPhone’s media library using Apple's official playback frameworks.
 *   **Modern Magic**: Works flawlessly in the background, syncs with the iOS Control Center, and respects modern device form factors while maintaining the classic aspect ratio.
 
