@@ -1,4 +1,4 @@
-# iPod Classic for iOS
+# iPod 1st gen
 
 Bring the nostalgic magic of the iconic 2001 iPod Classic right to your modern iPhone. A faithful, pixel-perfect recreation of the beloved interface, complete with a beautifully functional click wheel and authentic haptic feedback.
 
@@ -6,7 +6,7 @@ Bring the nostalgic magic of the iconic 2001 iPod Classic right to your modern i
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)
 
-<img width="400" alt="iPod App Screenshot" src="https://github.com/user-attachments/assets/2beb3cfe-afb0-4e9f-8adc-ce7ab77bc1ac" />
+![hqdefault](https://github.com/user-attachments/assets/bd08572d-4d9b-4d2f-a101-49eb2c2a6ae5)
 
 ## Why You'll Love It
 
@@ -16,6 +16,8 @@ Experience the joy of dedicated music listening again. This isn't just a theme �
 *   **The Classic Interface**: A pixel-perfect recreation of the original monochrome menus, typography, and hierarchical navigation (`Music` → `Artists` → `Albums` → `Songs`).
 *   **Full Media Integration**: Seamlessly plays tracks directly from your iPhone’s media library using Apple's official playback frameworks.
 *   **Modern Magic**: Works flawlessly in the background, syncs with the iOS Control Center, and respects modern device form factors while maintaining the classic aspect ratio.
+
+https://github.com/user-attachments/assets/5f532e2f-e55b-4cd2-8d7d-84ef4b3b35db
 
 ## Roadmap
 
@@ -29,10 +31,9 @@ Here are the key milestones that have been completed and what's coming next:
 *   [x] Background audio and Control Center support
 
 ### Planned
-*   [ ] **Spotify Integration**: Connect your Spotify account to play your playlists and saved tracks seamlessly.
-*   [ ] In-app settings for haptic intensity and wheel sensitivity.
-*   [ ] Themes (Inverted colors, alternative models).
-*   [ ] Classic mini-games like Brick.
+*   [ ] **Spotify Integration**
+*   [ ] **Settings**
+*   [ ] **Classic mini-games**
 
 ## Installation (via AltStore)
 
@@ -69,15 +70,6 @@ Curious about how it works under the hood? The app is built using a state-of-the
 ## Contributing
 
 We welcome contributions from the community! From bug fixes to entirely new features, your help makes the iPod Classic experience even better.
-
-### How to Contribute
-1. **Fork** the repository.
-2. **Create a branch** for your feature or bugfix (`git checkout -b feature/amazing-feature`).
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`).
-4. **Push** to the branch (`git push origin feature/amazing-feature`).
-5. **Open a Pull Request** against the `main` branch.
-
-Whether you want to add themes, iconic games like Brick, or improve the UI—jump right in!
 
 ## License & Credits
 
