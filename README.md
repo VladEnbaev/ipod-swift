@@ -31,9 +31,9 @@ Here are the key milestones that have been completed and what's coming next:
 *   [x] Background audio and Control Center support
 
 ### Planned
-*   [ ] **Spotify Integration**
-*   [ ] **Settings**
-*   [ ] **Classic mini-games**
+*   [ ] Spotify Integration
+*   [ ] Settings
+*   [ ] Classic mini-games
 
 ## Installation (via AltStore)
 
